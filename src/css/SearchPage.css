@@ -1,0 +1,21 @@
+.searchpage_info {
+  padding: 20px;
+}
+.searchpage_info > button {
+  color: white;
+  background-color: #ff7779;
+  text-transform: inherit;
+  margin: 5px;
+  border-radius: 30px;
+}
+.searchpage_info > p {
+  margin-top: 10px;
+  font-size: 14px;
+}
+.searchpage_info > h1 {
+  font-size: 30px;
+}
+.searchpage_info > button:hover {
+  color: #ff7779;
+  background-color: white;
+}
